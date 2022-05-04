@@ -29,6 +29,16 @@
 }
 
 @font-face {
+  font-family: Gilroy-Bold;
+  src: url('../fonts/Gilroy-Bold.ttf');
+}
+
+@font-face {
+  font-family: Gilroy-Regular;
+  src: url('../fonts/Gilroy-Regular.ttf');
+}
+
+@font-face {
   font-family: Poppins-Bold-49px;
   src: url('../fonts/Poppins-Bold.ttf');
   font-size: 49px;
