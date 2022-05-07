@@ -609,6 +609,12 @@ p.p-14412{
 
 .div-1609-grid-card{
   width: 100%;
+  padding: 30px;
+}
+
+.h1-1609-grid-card,
+.p-1609-grid-card{
+  width: 100%;
 }
 
 /* sec-rec-1489 */
@@ -628,6 +634,7 @@ p.p-14412{
   width: 90%;
   text-align: left;
   margin-left: 0;
+  margin-top: 20px;
 }
 
 .p-enter-details{
