@@ -393,3 +393,283 @@ html,body{
   width: 90%;
   margin-top: 0;
 }
+
+/* sec-why-hire-cronj */
+.sec-why-hire-cronj{
+  width: 100%;
+  padding: 20px;
+}
+
+.h1-why-hire-cronj{
+  width: 90%;
+  margin: 0;
+  font-size: 35px;
+  text-align: left;
+}
+
+.p-why-hire-cronj{
+  width: 90%;
+  margin: 0;
+  text-align: left;
+  margin-top: 60px;
+}
+
+.p-rating,
+.p-guarantee,
+.p-web-traffic,
+.p-client,
+.p-page{
+  width: 99%;
+}
+
+.h1-below-grid{
+  width: 100%;
+  margin-left: 0;
+  margin-bottom: 100px;
+}
+
+.div-numbers-grid{
+  flex-direction: column;
+  margin-left: 0;
+  padding-right: 0;
+  grid-row-gap: 65px;
+}
+
+.h1-business-models{
+  margin-left: 0;
+  width: 90%;
+}
+
+.div-business-models{
+  flex-direction: column;
+  margin-left: 0;
+  padding-right: 0;
+}
+
+.div-inner-bm-left{
+  flex-direction: column;
+}
+
+.h1-time-and-material,
+.h1-monthly-billing,
+.h1-hourly-billing{
+  width: 90%;
+}
+
+.p-hourly-billing,
+.p-monthly-billing,
+.p-time-and-material{
+  width: 90%;
+  margin-bottom: 30px;
+}
+
+.img-15122{
+  width: 340px;
+  height: 384px;
+}
+
+.div-numbers-img{
+  flex-direction: column;
+  margin-left: 0;
+  grid-row-gap: 20px;
+}
+
+.div-fixed-bid{
+  flex-direction: column;
+  grid-row-gap: 40px;
+  margin-left: 0;
+}
+
+.img-15123{
+  width: 340px;
+  height: 384px;
+}
+
+.div-fixed-bid-right{
+  margin-top: 40px;
+}
+
+.h1-fixed-bid{
+  width: 90%;
+}
+
+.p-fixed-bid{
+  width: 90%;
+}
+
+/* sec-14412 */
+.sec-14412{
+  width: 100%;
+  padding: 20px;
+  align-items: flex-start;
+}
+
+.h1-14412-title{
+  width: 90%;
+  text-align: left;
+  margin: 0;
+  font-size: 27px;
+}
+
+p.p-14412{
+  text-align: left;
+  margin: 0;
+  width: 90%;
+  margin-top: 50px;
+}
+
+.div-btn-14412{
+  margin-top: 60px;
+}
+
+/* sec-industries-served */
+.sec-industries-served{
+  width: 100%;
+  padding: 20px;
+}
+
+.h1-industries-served{
+  width: 90%;
+  text-align: left;
+  margin-left: 0;
+}
+
+.div-industries-served-grid{
+  flex-direction: column;
+  margin-left: 0;
+  padding-right: 0;
+}
+
+.p-is-gc-desc{
+  width: 90%;
+}
+
+.div-industries-served-grid-right{
+  grid-template-columns: 1fr;
+}
+
+.img-temp{
+  display: none;
+}
+
+/* sec-rec-1699 */
+.sec-rec-1699{
+  display: none;
+}
+
+.sec-rec1699{
+  display: none;
+}
+
+/* sec-rec-14575 */
+.sec-rec-14575{
+  width: 100%;
+  padding: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.h1-14575{
+  width: 90%;
+  text-align: left;
+}
+
+
+.p-14575{
+  width: 90%;
+  text-align: left;
+  margin-top: 120px;
+}
+
+.div-btn-14575{
+  margin-top: 70px;
+  width: 99%;
+  padding: 9px;
+}
+
+.h1-14575-image{
+  font-size: 16px;
+}
+
+/* sec-rec-1609 */
+.sec-rec-1609{
+  width: 100%;
+  padding: 20px;
+  height: max-content;
+}
+
+.h1-1609{
+  width: 90%;
+}
+
+.div-1609-grid{
+  grid-row-gap: 16.25px;
+  flex-direction: column;
+}
+
+.div-1609-grid-card{
+  width: 100%;
+}
+
+/* sec-rec-1489 */
+.sec-rec-1489{
+  width: 100%;
+  padding: 20px;
+  margin: 0;
+  height: max-content;
+}
+
+.div-1489-head{
+  margin: 0;
+  margin-top: 20px;
+}
+
+.p-10696{
+  width: 90%;
+  text-align: left;
+  margin-left: 0;
+}
+
+.p-enter-details{
+  margin-top: 100px;
+}
+
+.div-form-text-boxes{
+  grid-template-columns: 1fr;
+}
+
+.form-textbox{
+  width: 90%;
+}
+
+.div-checkbox{
+  flex-direction: column;
+}
+
+.ta-enq{
+  width: 99%;
+}
+
+.div-submit-btn{
+  margin-left: 0;
+  width: 90%;
+}
+
+/* Footer */
+footer{
+  width: 100%;
+}
+
+.h1-footer-head{
+  width: 90%;
+  margin-left: 0;
+}
+
+.img-below-h1-footer-head{
+  display: none;
+}
+
+.img-12585{
+  width: 100%;
+  margin-top: 51.21px;
+}
