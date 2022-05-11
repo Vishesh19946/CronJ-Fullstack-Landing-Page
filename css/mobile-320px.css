@@ -1,3 +1,7 @@
+*{
+  margin-right: 0;
+}
+
 html,body{
   width: 100%;
 }
@@ -28,6 +32,7 @@ html,body{
   
 .btn-developers-profile{
   margin: 20px;
+  margin-right: 0!important;
   margin-top: 40px;
   width: 90%;
 }
@@ -266,6 +271,7 @@ html,body{
   
   .p-content-grid-1{
     margin-top: 0px;
+    width: auto;
   }
   
   .img-line{
@@ -351,6 +357,7 @@ html,body{
   {
     height: auto;
     width: 100%;
+    display: none;
   }
   
   /* sec-14788 */
@@ -396,6 +403,11 @@ html,body{
     height: max-content;
   }
 
+  .h1-appdev{
+    width: 90%;
+    /* font-size: ; */
+  }
+
   .sec-development-services *{
     height: max-content;
   }
@@ -414,7 +426,14 @@ html,body{
   .div-grid-development-services{
     grid-template-columns: 1fr;
     margin-left: 0;
+    margin-right: 0!important;
     margin-top: 10px;
+  }
+
+  .div-grid-development-services .p-transparency{
+    font-size: 14px;
+    height: max-content;
+    width: 80%;
   }
 
   .div-grid-development-services h1{
@@ -423,6 +442,7 @@ html,body{
   
   .div-grid-card-ds{
     width: 90%;
+    padding: 5px;
   }
   
   .p-web-dev,
@@ -517,6 +537,7 @@ html,body{
   .img-15122{
     width: 100%;
     height: auto;
+    display: none;
   }
   
   .div-numbers-img{
@@ -534,6 +555,7 @@ html,body{
   .img-15123{
     width: 100%;
     height: auto;
+    display: none;
   }
   
   .div-fixed-bid-right{
@@ -608,6 +630,11 @@ html,body{
     text-align: left;
     margin-left: 0;
   }
+
+  .sec-industries-served .h1-is-gc-title{
+    width: 90%;
+    font-size: 22px;
+  }
   
   .div-industries-served-grid{
     flex-direction: column;
@@ -623,6 +650,7 @@ html,body{
   
   .p-is-gc-desc{
     width: 90%;
+    height: max-content;
   }
   
   .div-industries-served-grid-right{
@@ -697,7 +725,7 @@ html,body{
   
   .div-1609-grid-card{
     width: 100%;
-    padding: 30px;
+    padding: 10px!important;
   }
   
   .h1-1609-grid-card,
@@ -724,6 +752,17 @@ html,body{
     margin-left: 0;
     margin-top: 20px;
   }
+
+  .h1-10696{
+    height: max-content;
+    width: 60%;
+    font-size: 25px;
+  }
+
+  .img-phone-1489{
+    width: 35px;
+    height: 33px;
+  }
   
   .p-enter-details{
     margin-top: 100px;
@@ -735,6 +774,8 @@ html,body{
   
   .form-textbox{
     width: 90%;
+    padding: 10px;
+    font-size: 15px;
   }
   
   .div-checkbox{
