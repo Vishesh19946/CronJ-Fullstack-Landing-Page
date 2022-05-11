@@ -1470,7 +1470,8 @@ p.p-13152-content{
 
 .p-transparency{
   width: 311px;
-  height: 131px;
+  /* height: 131px; */
+  height: max-content;
   text-align: left;
   /* font: normal normal normal 16px/28px Gilroy; */
   letter-spacing: 0px;
