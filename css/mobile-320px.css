@@ -8,6 +8,33 @@ html,body{
   
 .hero{
   width: 100%;
+  height: max-content;
+}
+
+.img-logo-company{
+  display: none;
+}
+
+.navbar{
+  left: 0;
+  width: 100%;
+  margin-top: 0;
+  position: relative;
+  flex-direction: column;
+}
+
+.btn-primary{
+  margin-left: 0;
+  width: 135px;
+  height: 37px;
+}
+
+.navbar ul{
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+  align-items: center;
+  margin: 0;
 }
   
 .hero .header-content{
@@ -47,18 +74,6 @@ html,body{
   flex-direction: column;
 }
   
-.navbar{
-  flex-direction: column;
-  align-items: flex-start;
-  margin-left: 20px;
-  display: none;/* remove later */
-}
-
-.navbar ul{
-  margin-top: 20px;
-  flex-direction: column;
-}
-
 .btn-primary{
   margin-left: 0;
 }

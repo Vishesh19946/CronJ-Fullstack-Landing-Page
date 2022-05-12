@@ -39,18 +39,6 @@ html,body{
   grid-row-gap: 20px;
 }
 
-.navbar{
-  margin-left: 20px;
-  flex-direction: column;
-  align-items: flex-start;
-  display: none;/* remove later */
-}
-
-.navbar ul{
-  flex-direction: column;
-  margin-top: 20px;
-}
-
 .btn-primary{
   margin-left: 0;
 }
