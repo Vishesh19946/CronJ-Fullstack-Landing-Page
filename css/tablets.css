@@ -22,6 +22,7 @@ html,body{
   margin: 0;
   padding: 20px;
   height: max-content;
+  align-self: flex-start!important;
 }
   
 .btn-developers-profile{
@@ -106,6 +107,8 @@ html,body{
 .grid-card{
   width: 90%;
   height: max-content;
+  padding: 20px!important;
+  align-items: flex-start!important;
 }
 
 .h1-travel-tourism,
@@ -133,6 +136,7 @@ html,body{
   font-size: 16px;
   width: 90%;
   height: max-content;
+  text-align: left!important;
 }
 
 /* sec-13300 */
@@ -151,6 +155,7 @@ html,body{
 .p-13300{
   width: 90%;
   margin-top: 40px;
+  align-self: flex-start!important;
 }
 
 .btn-13300{
@@ -281,6 +286,7 @@ html,body{
 .p-14680{
   width: 90%;
   margin-top: 70px;
+  align-self: flex-start!important;
 }
 
 .div-btn-14680{
@@ -324,6 +330,8 @@ html,body{
 
 .p-title-content{
   width: 90%;
+  text-align: left!important;
+  align-self: flex-start!important;
 }
 
 .img-15119,
@@ -388,9 +396,9 @@ html,body{
   /* font-size: ; */
 }
 
-.sec-development-services *{
+/* .sec-development-services *{
   height: max-content;
-}
+} */
 
 .sec-development-services h1,p{
   text-align: center!important;
@@ -404,6 +412,7 @@ html,body{
 .p-development-services{
   width: 90%;
   margin-left: 0;
+  height: max-content;
 }
 
 .div-grid-development-services{
@@ -423,8 +432,10 @@ html,body{
 .div-grid-card-ds{
   align-items: center;
   justify-content: center;
-  width: 90%;
+  width: 361px;
+  height: 322px;
   grid-row-gap: 10px;
+  padding: 20px!important;
 }
 
 .p-web-dev,
@@ -491,6 +502,15 @@ html,body{
   grid-row-gap: 65px;
 }
 
+.div-numbers-grid-cards{
+  align-items: center;
+  justify-content: center;
+}
+
+.div-numbers-grid-cards p{
+  text-align: center!important;
+}
+
 .h1-business-models{
   margin-left: 0;
   width: 90%;
@@ -502,9 +522,9 @@ html,body{
   padding-right: 0;
 }
 
-.div-inner-bm-left{
+/* .div-inner-bm-left{
   flex-direction: column;
-}
+} */
 
 .h1-time-and-material,
 .h1-monthly-billing,
@@ -529,6 +549,15 @@ html,body{
   flex-direction: column;
   margin-left: 0;
   grid-row-gap: 20px;
+}
+
+.div-numbers-img-cards{
+  align-items: center;
+  justify-content: center;
+}
+
+.div-numbers-img-cards p{
+  text-align: center!important;
 }
 
 .div-fixed-bid{
